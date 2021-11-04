@@ -8,6 +8,8 @@ You can find information about me on my [About Me](https://mayamiddletonwelch.gi
 
 ## Python Coding Portfolio
 
+Below contains links to my python coding I have submitted as part of the introductory python course at the University of Leeds. 
+
 * [Agent Based Modelling](https://mayamiddletonwelch.github.io/index4)
 
 * [Code Shrinking 1](https://mayamiddletonwelch.github.io/index5)
