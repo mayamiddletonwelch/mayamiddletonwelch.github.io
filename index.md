@@ -1,10 +1,10 @@
-Hello!
+## Hello!
 
-Welcome to my personal page. 
+Welcome to my personal page. Here you can find links to my work and further information about me. 
 
-Here you can find a portfolio of my Python coding I have completed for the Leeds University introductory python course. 
+## About Me
 
-You can also find information about me on my [About Me](https://mayamiddletonwelch.github.io/index2) page. 
+You can find information about me on my [About Me](https://mayamiddletonwelch.github.io/index2) page. 
 
 ## Python Coding Portfolio
 
@@ -25,3 +25,5 @@ You can also find information about me on my [About Me](https://mayamiddletonwel
 * [Animation/Behaviour](https://mayamiddletonwelch.github.io/index11)
 
 * [GUI/Web scraping](https://mayamiddletonwelch.github.io/index12)
+
+* [Readme.txt/License.txt](https://mayamiddletonwelch.github.io/index13)
